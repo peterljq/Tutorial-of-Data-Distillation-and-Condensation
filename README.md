@@ -1,4 +1,4 @@
-# Awesome-Data-Distillation-and-Condensation
+# Tutorial-of-Data-Distillation-and-Condensation
 
 ## Main Idea
 Data Distillation and Condensation (DDC) is a data-centric task where a representative (i.e., small but training-effective) batch of data is generated from the large dataset. Models trained on this small batch can obtain similar test performance compared to the models trained on the full dataset. Sometimes, the distilled images preserve certains aspects of semantics corresponding to the annotated objects in the full dataset, which are explainable to human users. A brief demostration of task is shown below:
